@@ -2,4 +2,4 @@
 
 Chapters:
 
-- Types
+- [Types](types/)
