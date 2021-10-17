@@ -13,3 +13,5 @@ Text("Learn more about text below.")
 ```
 
 - [Initalizers](text/inits/)
+
+Open Swift Playground for `Text`
