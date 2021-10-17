@@ -14,3 +14,10 @@ Text("Hello!")
 will display "Hello!" in English and other languages except Chinese.
 
 ## init(verbitm:)
+
+`init(verbitm:)` displays unlocalized text.
+
+```swift
+Text(verbitm: "pencil") // Displays pencil in all languages.
+Text("pencil") // Displays pencil, localized based on the app's localization.
+```
