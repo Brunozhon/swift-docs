@@ -14,4 +14,4 @@ Text("Learn more about text below.")
 
 - [Initalizers](text/inits/)
 
-[Download Swift Playground for `Text`](App%20Making%201.zip)
+[Download Swift Playground for `Text`.](App%20Making%201.zip) Only 5 KB zipped and 16 KB unzipped!
