@@ -2,4 +2,4 @@
 
 Chapters:
 
-- Views and Controls
+- [Views and Controls](views-and-controls/)
