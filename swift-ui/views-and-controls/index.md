@@ -11,3 +11,5 @@ Text("Hello, world!")
 Text("What a good day with SwiftUI!")
 Text("Learn more about text below.")
 ```
+
+- [Initalizers](text/inits/)
