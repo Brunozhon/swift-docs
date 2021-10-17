@@ -2,4 +2,4 @@
 
 Chapters:
 
-- [Types](types/)
+- [Swift Reference at GitHub.com](https://github.com/Brunozhon/SwiftReference)
