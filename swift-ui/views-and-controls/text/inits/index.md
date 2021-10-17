@@ -7,7 +7,7 @@
 
 `init(_:)` displays localized text. For example, an app with English and Chinese localization with this code:
 
-```
+```swift
 Text("Hello!")
 ```
 
